@@ -5,7 +5,6 @@
 - 🚀 Desenvolvendo projetos com Java, Spring Boot e SQL.
 - 📚 Aprofundando conhecimentos em Arquitetura de Software, Banco de Dados e Docker.
 - 🎯 Em busca da minha primeira oportunidade como Desenvolvedor Back-end Júnior.
-- 📫 Entre em contato pelo LinkedIn ou e-mail.
 
 
 <div>
@@ -30,7 +29,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/linkedin.com/in/eric-bizerra-260b5b419/">
+ <a href="https://linkedin.com/in/eric-bizerra-260b5b419" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
