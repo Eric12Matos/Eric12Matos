@@ -7,11 +7,10 @@
 - 🎯 Em busca da minha primeira oportunidade como Desenvolvedor Back-end Júnior.
 
 
-<div>
-  <a href="https://github.com/Eric12Matos">
-    <img height="80em" src="https://github-readme-stats.vercel.app/api?username=Eric12Matos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric12Matos&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eric12Matos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eric12Matos&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ##  Tecnologias
